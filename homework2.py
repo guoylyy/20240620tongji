@@ -102,5 +102,6 @@ def main():
 
     print_to_csv(word_list, 'output/test.csv', total_word_count)
 
+# test test test
 if __name__ == "__main__":
     main()
