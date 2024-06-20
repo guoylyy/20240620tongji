@@ -3,7 +3,7 @@
 import codecs
 import os
 
-# add some comments
+# add some comments 1 2 3
 
 #1. 读取文件
 #['aa', 'aaa-bbb-sds'] => ['aa', 'aaa', 'bbb', 'sds']
