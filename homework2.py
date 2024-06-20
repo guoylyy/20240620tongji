@@ -5,6 +5,7 @@ import os
 
 # add some comments 1 2 3 888
 
+# huanghuanghuang
 #1. 读取文件
 #['aa', 'aaa-bbb-sds'] => ['aa', 'aaa', 'bbb', 'sds']
 def word_split(words):
