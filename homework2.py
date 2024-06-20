@@ -3,6 +3,8 @@
 import codecs
 import os
 
+# add some comments
+
 #1. 读取文件
 #['aa', 'aaa-bbb-sds'] => ['aa', 'aaa', 'bbb', 'sds']
 def word_split(words):
@@ -98,9 +100,7 @@ def main():
     #3. 统计单词和排序
     word_list = statictcs_words(f_words)
 
-    #4. 输出文件
     print_to_csv(word_list, 'output/test.csv', total_word_count)
-
 
 if __name__ == "__main__":
     main()
